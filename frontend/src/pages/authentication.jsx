@@ -74,7 +74,7 @@ export default function Authentication() {
                     item
                     xs={false}
                     sm={4}
-                    md={7}
+                   md={7}
                     sx={{
                         backgroundImage: 'url(https://source.unsplash.com/random?wallpapers)',
                         backgroundRepeat: 'no-repeat',
